@@ -1,3 +1,9 @@
+0.0.3
+- RPi.GPIO - 0.6.2
+
+0.0.2
+- RPi.GPIO - 0.6.1
+
 0.0.1
 - initial Release
 - RPi.GPIO - 0.5.11
