@@ -13,5 +13,9 @@
     <summary>python RPi.GPIO</summary>
     <description>This module contains the RPi python GPIO Lib</description>
     <platform>linux</platform>
+    <news>0.0.4- RPi.GPIO - 0.6.3</news>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
