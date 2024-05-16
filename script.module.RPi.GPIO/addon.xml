@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.RPi.GPIO"
-       name="RPi.GPIO"
-       version="0.0.4"
-       provider-name="lsellens">
+<addon id="script.module.RPi.GPIO" name="RPi.GPIO" version="0.0.4" provider-name="lsellens">
   <requires>
     <import addon="xbmc.addon" version="14.0.0"/>
     <import addon="xbmc.python" version="2.19.0"/>
   </requires>
-  <extension point="xbmc.python.module"
-             library="lib" />
+  <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
     <summary>python RPi.GPIO</summary>
     <description>This module contains the RPi python GPIO Lib</description>
     <platform>linux</platform>
     <news>0.0.4- RPi.GPIO - 0.6.3</news>
     <assets>
-      <icon>icon.png</icon>
+      <icon>resources/icon.png</icon>
     </assets>
   </extension>
 </addon>
